@@ -1,3 +1,3 @@
 # Tabela ASC II 
 
-#### Impressão da tabela ASC II no LCD utilizando Arduino e a biblioteca LiquidCrystal I2C.
+#### Impressão da tabela ASC II no LCD I2C utilizando Arduino e a biblioteca LiquidCrystal.
